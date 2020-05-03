@@ -5,10 +5,10 @@ Project: Stash is a personal project of mine which aims for an easy deployment o
 The design for this is contained here:
 TODO: Link to Diagram
 
-Design Notes:
+### Design Notes:
 * Separate remote central log server from Logstash + Elastic Search cluster and Kibana reporting. 
 
-##Tools:
+## Tools:
 * Docker
 * Docker Compose
 * Docker containers:
